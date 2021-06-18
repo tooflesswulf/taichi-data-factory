@@ -51,6 +51,8 @@ The outputs will be stored in the taichi legacy source folder. (the same place y
 
 `~/taichi/outputs/mpm/`
 
+The output data is in the `frames/*.bgeo` files. You can visualize them using [Houdini Apprentice](https://www.sidefx.com/products/houdini-apprentice/)
+
 ## More examples
 
 There are more examples here:

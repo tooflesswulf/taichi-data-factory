@@ -22,3 +22,8 @@ ti install mpm
 ```
 
 You can verify the install by running an example script.
+```
+python3.7 layersim3d_factory.py configs/test1.yaml
+```
+
+The output should look like:

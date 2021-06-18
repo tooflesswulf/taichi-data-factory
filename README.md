@@ -8,7 +8,7 @@ The following instructions pulled from: https://taichi.readthedocs.io/en/stable/
 
 I'll assume you're using python3.7. Oh, and also I was unable to get this dumb thing working through pyenv either.
 
-This is how you install the taichi legacy library. It'll compile the thing from source.
+This is how you install the taichi legacy library. It'll compile the thing from source. (I recommend you put `install.py` in your home directory)
 
 ```shell
 python3.7 -m pip install colorama numpy Pillow flask scipy pybind11 flask_cors GitPython yapf distro requests PyQt5 psutil
@@ -21,6 +21,7 @@ Restart your shell (or `source ~/.bashrc`). Then install the fluid library https
 ti install mpm
 ```
 
+## Running
 You can verify the install by running an example script.
 ```shell
 python3.7 layersim3d_factory.py configs/test1.yaml
@@ -44,6 +45,13 @@ grid_block_size(): {
 [D 06/18/21 11:05:07.852] [rigid_body.cpp:initialize_mass_and_inertia@142] 
 this->mass: 594.49
 ```
+
+## Output
+The outputs will be stored in the taichi legacy source folder. (the same place you ran the `install.py` script). For me:
+
+`~/taichi/outputs/mpm/`
+
+## More examples
 
 There are more examples here:
 https://github.com/yuanming-hu/taichi_mpm/tree/master/scripts/mls-cpic

@@ -27,3 +27,20 @@ python3.7 layersim3d_factory.py configs/test1.yaml
 ```
 
 The output should look like:
+```
+[T 06/18/21 11:05:07.494] [logging.cpp:Logger@67] Taichi core started. Thread ID = 17990
+Loading module mpm
+delta_x = 0.006622516556291391
+task_id = test1
+[T 06/18/21 11:05:07.795] [/home/albert/taichi/python/taichi/dynamics/mpm.py:__init__@52] log_fn = /home/albert/taichi/outputs/mpm/test1/log.txt
+[D 06/18/21 11:05:07.810] [mpm.cpp:initialize@28] 
+grid_block_size(): {
+  vec: (4, 4, 8)
+}
+[T 06/18/21 11:05:07.810] [mpm.cpp:initialize@29] BaseParticle size: 208 B
+[I 06/18/21 11:05:07.811] [mpm.cpp:initialize@54] Created SPGrid of size 256
+[I 06/18/21 11:05:07.824] [mesh.h:operator()@94] Adding mesh, fn=$mpm/cube_smooth_coarse.obj
+[T 06/18/21 11:05:07.851] [rigid_body.cpp:operator()@108] Adding a solid rigid body
+[D 06/18/21 11:05:07.852] [rigid_body.cpp:initialize_mass_and_inertia@142] 
+this->mass: 594.49
+```

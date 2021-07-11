@@ -1,0 +1,64 @@
+fluid:
+  density: 1000
+  friction: 0.3
+  hardening: 8.50137080450606
+  lambda_0: 26702.983173023644
+  mu_0: 215586.2173172154
+  theta_c: 0.00885555965492195
+  theta_s: 0.019680282159635666
+  type: snow
+fluid_scale: 0.3454090670075889
+friction: 0.3
+motion:
+  dx: 0.04616535352974782
+  dy: 0.05
+  x0: 0.4538346464702522
+  y0: 0.5064723271874466
+name: t90
+pause_len: 0.08
+res: 150
+seg_len: 0.3205052709549493
+v0: 0.0017999841078149008
+walls:
+- floor: 0.45
+  pos: !!python/tuple
+  - 0.5
+  - 0.41
+  - 0.5
+  scale: !!python/tuple
+  - 3.5
+  - 0.5
+  - 3.5
+  sticky: true
+- pos: !!python/tuple
+  - 0.35
+  - 0.5
+  - 0.5
+  scale: !!python/tuple
+  - 0.5
+  - 2.3
+  - 3.5
+- pos: !!python/tuple
+  - 0.65
+  - 0.5
+  - 0.5
+  scale: !!python/tuple
+  - 0.5
+  - 2.3
+  - 3.5
+- pos: !!python/tuple
+  - 0.5
+  - 0.5
+  - 0.35
+  scale: !!python/tuple
+  - 3.5
+  - 2.3
+  - 0.5
+- pos: !!python/tuple
+  - 0.5
+  - 0.5
+  - 0.65
+  scale: !!python/tuple
+  - 3.5
+  - 2.3
+  - 0.5

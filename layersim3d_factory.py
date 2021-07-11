@@ -57,6 +57,8 @@ def motion(t):
 
 
 if __name__ == '__main__':
+    tmax = int(6*(params['seg_len'] + params['pause_len']) * 100) + 50
+
     mpm = tc.dynamics.MPM(
         res=(r + 1, r + 1, r + 1),
         gravity=(0, -10, 0),
@@ -65,7 +67,7 @@ if __name__ == '__main__':
         rigid_penalty=1e4,
         task_id=params['name'],
         friction=0,
-        num_frames=350)
+        num_frames=tmax)
     
     for wall in params['walls']:
         pos = tc.Vector(*wall['pos'])

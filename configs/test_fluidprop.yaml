@@ -1,0 +1,64 @@
+fluid:
+  density: 1000
+  friction: 0.3
+  hardening: 8.1960791884238
+  lambda_0: 66735.97462503286
+  mu_0: 20622.4474938662
+  theta_c: 0.015744375463849228
+  theta_s: 0.006111177831564053
+  type: snow
+fluid_scale: 0.27102094548695767
+friction: 0.3
+motion:
+  dx: 0.04598364341095179
+  dy: 0.05
+  x0: 0.4540163565890482
+  y0: 0.49758044376420346
+name: test_fluidprop
+pause_len: 0.08
+res: 150
+seg_len: 0.4385602691722647
+v0: 0.4029537897203688
+walls:
+- floor: 0.45
+  pos: !!python/tuple
+  - 0.5
+  - 0.41
+  - 0.5
+  scale: !!python/tuple
+  - 3.5
+  - 0.5
+  - 3.5
+  sticky: true
+- pos: !!python/tuple
+  - 0.35
+  - 0.5
+  - 0.5
+  scale: !!python/tuple
+  - 0.5
+  - 2.3
+  - 3.5
+- pos: !!python/tuple
+  - 0.65
+  - 0.5
+  - 0.5
+  scale: !!python/tuple
+  - 0.5
+  - 2.3
+  - 3.5
+- pos: !!python/tuple
+  - 0.5
+  - 0.5
+  - 0.35
+  scale: !!python/tuple
+  - 3.5
+  - 2.3
+  - 0.5
+- pos: !!python/tuple
+  - 0.5
+  - 0.5
+  - 0.65
+  scale: !!python/tuple
+  - 3.5
+  - 2.3
+  - 0.5

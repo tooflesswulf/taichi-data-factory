@@ -18,7 +18,7 @@ name: t11
 pause_len: 0.08
 res: 150
 seg_len: 0.28997856895700624
-v0: 0.06896896413500435
+v0: -0.06896896413500435
 walls:
 - floor: 0.45
   pos: !!python/tuple

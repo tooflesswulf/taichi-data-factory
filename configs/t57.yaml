@@ -18,7 +18,7 @@ name: t57
 pause_len: 0.08
 res: 150
 seg_len: 0.4134376801407329
-v0: 0.06372437718921505
+v0: -0.06372437718921505
 walls:
 - floor: 0.45
   pos: !!python/tuple

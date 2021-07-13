@@ -18,7 +18,7 @@ name: t76
 pause_len: 0.08
 res: 150
 seg_len: 0.3316182102207982
-v0: 0.005262233433801161
+v0: -0.005262233433801161
 walls:
 - floor: 0.45
   pos: !!python/tuple

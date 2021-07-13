@@ -18,7 +18,7 @@ name: t16
 pause_len: 0.08
 res: 150
 seg_len: 0.3702363503178787
-v0: 0.23651913067664998
+v0: -0.23651913067664998
 walls:
 - floor: 0.45
   pos: !!python/tuple

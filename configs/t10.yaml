@@ -18,7 +18,7 @@ name: t10
 pause_len: 0.08
 res: 150
 seg_len: 0.41815457568557
-v0: 0.5874883414838298
+v0: -0.5874883414838298
 walls:
 - floor: 0.45
   pos: !!python/tuple

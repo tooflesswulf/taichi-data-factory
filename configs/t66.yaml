@@ -18,7 +18,7 @@ name: t66
 pause_len: 0.08
 res: 150
 seg_len: 0.372789748113681
-v0: 0.1615558816306701
+v0: -0.1615558816306701
 walls:
 - floor: 0.45
   pos: !!python/tuple

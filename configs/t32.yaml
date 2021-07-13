@@ -18,7 +18,7 @@ name: t32
 pause_len: 0.08
 res: 150
 seg_len: 0.2585452061827668
-v0: 0.2238183812042691
+v0: -0.2238183812042691
 walls:
 - floor: 0.45
   pos: !!python/tuple

@@ -18,7 +18,7 @@ name: t73
 pause_len: 0.08
 res: 150
 seg_len: 0.3808325622847661
-v0: 0.23836183919928539
+v0: -0.23836183919928539
 walls:
 - floor: 0.45
   pos: !!python/tuple

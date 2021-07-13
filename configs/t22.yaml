@@ -18,7 +18,7 @@ name: t22
 pause_len: 0.08
 res: 150
 seg_len: 0.47242039438012184
-v0: 0.93716973445274
+v0: -0.93716973445274
 walls:
 - floor: 0.45
   pos: !!python/tuple

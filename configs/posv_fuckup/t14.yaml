@@ -1,0 +1,64 @@
+fluid:
+  density: 1000
+  friction: 0.3
+  hardening: 8.468121630214526
+  lambda_0: 40045.08500170076
+  mu_0: 25735.890615082943
+  theta_c: 0.009355800807009948
+  theta_s: 0.015900555815109074
+  type: snow
+fluid_scale: 0.3614429701465302
+friction: 0.3
+motion:
+  dx: 0.0463809185100828
+  dy: 0.05
+  x0: 0.4536190814899172
+  y0: 0.5242528454751311
+name: t14
+pause_len: 0.08
+res: 150
+seg_len: 0.33288255461943894
+v0: 0.07809415908470776
+walls:
+- floor: 0.45
+  pos: !!python/tuple
+  - 0.5
+  - 0.41
+  - 0.5
+  scale: !!python/tuple
+  - 3.5
+  - 0.5
+  - 3.5
+  sticky: true
+- pos: !!python/tuple
+  - 0.35
+  - 0.5
+  - 0.5
+  scale: !!python/tuple
+  - 0.5
+  - 2.3
+  - 3.5
+- pos: !!python/tuple
+  - 0.65
+  - 0.5
+  - 0.5
+  scale: !!python/tuple
+  - 0.5
+  - 2.3
+  - 3.5
+- pos: !!python/tuple
+  - 0.5
+  - 0.5
+  - 0.35
+  scale: !!python/tuple
+  - 3.5
+  - 2.3
+  - 0.5
+- pos: !!python/tuple
+  - 0.5
+  - 0.5
+  - 0.65
+  scale: !!python/tuple
+  - 3.5
+  - 2.3
+  - 0.5

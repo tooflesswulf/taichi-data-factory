@@ -18,7 +18,7 @@ name: t81
 pause_len: 0.08
 res: 150
 seg_len: 0.34844844114950724
-v0: 0.5910890827549715
+v0: -0.5910890827549715
 walls:
 - floor: 0.45
   pos: !!python/tuple

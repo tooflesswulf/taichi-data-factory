@@ -18,7 +18,7 @@ name: t50
 pause_len: 0.08
 res: 150
 seg_len: 0.3799158719759194
-v0: 0.016508210244097835
+v0: -0.016508210244097835
 walls:
 - floor: 0.45
   pos: !!python/tuple

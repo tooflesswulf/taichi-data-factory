@@ -18,7 +18,7 @@ name: t78
 pause_len: 0.08
 res: 150
 seg_len: 0.41859151823094093
-v0: 0.6271528480385197
+v0: -0.6271528480385197
 walls:
 - floor: 0.45
   pos: !!python/tuple

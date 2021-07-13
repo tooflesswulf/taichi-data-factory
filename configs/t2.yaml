@@ -1,19 +1,24 @@
 fluid:
   density: 1000
   friction: 0.3
+  hardening: 8.909621092364386
+  lambda_0: 215409.03680839116
+  mu_0: 15376.591907753906
+  theta_c: 0.017486698212669245
+  theta_s: 0.012924555873911572
   type: snow
-fluid_scale: 0.336443163854658
+fluid_scale: 0.2079854231615531
 friction: 0.3
 motion:
-  dx: 0.09814888873639538
+  dx: 0.07861166655229657
   dy: 0.05
-  x0: 0.4018511112636046
+  x0: 0.42138833344770343
   y0: 0.5475721928132699
 name: t2
 pause_len: 0.08
 res: 150
 seg_len: 0.481199071513245
-v0: 0.04429836651717883
+v0: -0.48053119414182605
 walls:
 - floor: 0.45
   pos: !!python/tuple
@@ -29,7 +34,7 @@ walls:
   - 0.35
   - 0.5
   - 0.5
-  scale: &id001 !!python/tuple
+  scale: !!python/tuple
   - 0.5
   - 2.3
   - 3.5
@@ -37,12 +42,15 @@ walls:
   - 0.65
   - 0.5
   - 0.5
-  scale: *id001
+  scale: !!python/tuple
+  - 0.5
+  - 2.3
+  - 3.5
 - pos: !!python/tuple
   - 0.5
   - 0.5
   - 0.35
-  scale: &id002 !!python/tuple
+  scale: !!python/tuple
   - 3.5
   - 2.3
   - 0.5
@@ -50,4 +58,7 @@ walls:
   - 0.5
   - 0.5
   - 0.65
-  scale: *id002
+  scale: !!python/tuple
+  - 3.5
+  - 2.3
+  - 0.5

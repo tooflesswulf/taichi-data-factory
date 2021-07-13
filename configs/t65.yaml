@@ -18,7 +18,7 @@ name: t65
 pause_len: 0.08
 res: 150
 seg_len: 0.42223291795250817
-v0: 0.5943739320866671
+v0: -0.5943739320866671
 walls:
 - floor: 0.45
   pos: !!python/tuple

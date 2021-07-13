@@ -18,7 +18,7 @@ name: t53
 pause_len: 0.08
 res: 150
 seg_len: 0.49813360092657655
-v0: 0.04902771304411195
+v0: -0.04902771304411195
 walls:
 - floor: 0.45
   pos: !!python/tuple

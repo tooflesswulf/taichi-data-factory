@@ -18,7 +18,7 @@ name: t60
 pause_len: 0.08
 res: 150
 seg_len: 0.4457349011180636
-v0: 4.4730057214974075e-06
+v0: -4.4730057214974075e-06
 walls:
 - floor: 0.45
   pos: !!python/tuple

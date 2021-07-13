@@ -18,7 +18,7 @@ name: t79
 pause_len: 0.08
 res: 150
 seg_len: 0.2800483882388195
-v0: 0.12579467266979416
+v0: -0.12579467266979416
 walls:
 - floor: 0.45
   pos: !!python/tuple

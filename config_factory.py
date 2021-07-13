@@ -56,7 +56,7 @@ if __name__ == '__main__':
   fl_scale = random.uniform(.2, .5)
 
   r = random.random()
-  v0 = r*r  # [-1, 0], weighted to 0
+  v0 = -r*r  # [-1, 0], weighted to 0
 
 
   data ={

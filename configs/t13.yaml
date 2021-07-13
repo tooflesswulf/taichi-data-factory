@@ -18,7 +18,7 @@ name: t13
 pause_len: 0.08
 res: 150
 seg_len: 0.4687940579368952
-v0: 0.45734750317136463
+v0: -0.45734750317136463
 walls:
 - floor: 0.45
   pos: !!python/tuple

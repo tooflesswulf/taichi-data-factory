@@ -18,7 +18,7 @@ name: t33
 pause_len: 0.08
 res: 150
 seg_len: 0.4248894246095095
-v0: 0.8011826452788023
+v0: -0.8011826452788023
 walls:
 - floor: 0.45
   pos: !!python/tuple

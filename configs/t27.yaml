@@ -18,7 +18,7 @@ name: t27
 pause_len: 0.08
 res: 150
 seg_len: 0.4672563598763897
-v0: 0.0430806274766238
+v0: -0.0430806274766238
 walls:
 - floor: 0.45
   pos: !!python/tuple

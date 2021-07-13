@@ -18,7 +18,7 @@ name: t59
 pause_len: 0.08
 res: 150
 seg_len: 0.3947694029310582
-v0: 0.6297028222592083
+v0: -0.6297028222592083
 walls:
 - floor: 0.45
   pos: !!python/tuple

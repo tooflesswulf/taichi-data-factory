@@ -18,7 +18,7 @@ name: t29
 pause_len: 0.08
 res: 150
 seg_len: 0.35430382106641445
-v0: 0.16361051199826204
+v0: -0.16361051199826204
 walls:
 - floor: 0.45
   pos: !!python/tuple

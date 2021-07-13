@@ -18,7 +18,7 @@ name: t5
 pause_len: 0.08
 res: 150
 seg_len: 0.3403963856263385
-v0: 0.03206059725488015
+v0: -0.03206059725488015
 walls:
 - floor: 0.45
   pos: !!python/tuple

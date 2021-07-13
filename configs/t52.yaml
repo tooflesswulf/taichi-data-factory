@@ -18,7 +18,7 @@ name: t52
 pause_len: 0.08
 res: 150
 seg_len: 0.47007940939298576
-v0: 0.0033171066774543285
+v0: -0.0033171066774543285
 walls:
 - floor: 0.45
   pos: !!python/tuple

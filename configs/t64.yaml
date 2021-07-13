@@ -18,7 +18,7 @@ name: t64
 pause_len: 0.08
 res: 150
 seg_len: 0.2600980172937273
-v0: 0.4583449172984693
+v0: -0.4583449172984693
 walls:
 - floor: 0.45
   pos: !!python/tuple

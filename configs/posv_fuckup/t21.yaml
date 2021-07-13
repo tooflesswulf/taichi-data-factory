@@ -1,0 +1,64 @@
+fluid:
+  density: 1000
+  friction: 0.3
+  hardening: 9.913770727710721
+  lambda_0: 87787.2125487455
+  mu_0: 60885.09325723234
+  theta_c: 0.038909878763840444
+  theta_s: 0.006842409679848735
+  type: snow
+fluid_scale: 0.3560833683460313
+friction: 0.3
+motion:
+  dx: 0.06746848754574669
+  dy: 0.05
+  x0: 0.4325315124542533
+  y0: 0.548607973056646
+name: t21
+pause_len: 0.08
+res: 150
+seg_len: 0.40521032589611744
+v0: 0.9527640559426663
+walls:
+- floor: 0.45
+  pos: !!python/tuple
+  - 0.5
+  - 0.41
+  - 0.5
+  scale: !!python/tuple
+  - 3.5
+  - 0.5
+  - 3.5
+  sticky: true
+- pos: !!python/tuple
+  - 0.35
+  - 0.5
+  - 0.5
+  scale: !!python/tuple
+  - 0.5
+  - 2.3
+  - 3.5
+- pos: !!python/tuple
+  - 0.65
+  - 0.5
+  - 0.5
+  scale: !!python/tuple
+  - 0.5
+  - 2.3
+  - 3.5
+- pos: !!python/tuple
+  - 0.5
+  - 0.5
+  - 0.35
+  scale: !!python/tuple
+  - 3.5
+  - 2.3
+  - 0.5
+- pos: !!python/tuple
+  - 0.5
+  - 0.5
+  - 0.65
+  scale: !!python/tuple
+  - 3.5
+  - 2.3
+  - 0.5

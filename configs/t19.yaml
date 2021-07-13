@@ -18,7 +18,7 @@ name: t19
 pause_len: 0.08
 res: 150
 seg_len: 0.2991638728170234
-v0: 0.052209495985816944
+v0: -0.052209495985816944
 walls:
 - floor: 0.45
   pos: !!python/tuple

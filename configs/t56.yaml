@@ -18,7 +18,7 @@ name: t56
 pause_len: 0.08
 res: 150
 seg_len: 0.4400807007293366
-v0: 0.4320802911530787
+v0: -0.4320802911530787
 walls:
 - floor: 0.45
   pos: !!python/tuple

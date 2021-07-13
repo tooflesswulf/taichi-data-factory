@@ -18,7 +18,7 @@ name: t62
 pause_len: 0.08
 res: 150
 seg_len: 0.4257172937739986
-v0: 0.015429848663519435
+v0: -0.015429848663519435
 walls:
 - floor: 0.45
   pos: !!python/tuple

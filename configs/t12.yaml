@@ -18,7 +18,7 @@ name: t12
 pause_len: 0.08
 res: 150
 seg_len: 0.359977984936471
-v0: 0.9470464688009186
+v0: -0.9470464688009186
 walls:
 - floor: 0.45
   pos: !!python/tuple

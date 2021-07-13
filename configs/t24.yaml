@@ -18,7 +18,7 @@ name: t24
 pause_len: 0.08
 res: 150
 seg_len: 0.474550632651257
-v0: 0.41184943496320986
+v0: -0.41184943496320986
 walls:
 - floor: 0.45
   pos: !!python/tuple

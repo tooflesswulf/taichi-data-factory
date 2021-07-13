@@ -18,7 +18,7 @@ name: t7
 pause_len: 0.08
 res: 150
 seg_len: 0.49335542562220935
-v0: 0.08893045899359416
+v0: -0.08893045899359416
 walls:
 - floor: 0.45
   pos: !!python/tuple

@@ -18,7 +18,7 @@ name: t75
 pause_len: 0.08
 res: 150
 seg_len: 0.49518229493249377
-v0: 0.016902138379748997
+v0: -0.016902138379748997
 walls:
 - floor: 0.45
   pos: !!python/tuple

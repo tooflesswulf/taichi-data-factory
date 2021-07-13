@@ -18,7 +18,7 @@ name: t23
 pause_len: 0.08
 res: 150
 seg_len: 0.27603859363207023
-v0: 0.20411701344476077
+v0: -0.20411701344476077
 walls:
 - floor: 0.45
   pos: !!python/tuple

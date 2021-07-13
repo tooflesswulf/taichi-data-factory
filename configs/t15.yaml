@@ -18,7 +18,7 @@ name: t15
 pause_len: 0.08
 res: 150
 seg_len: 0.33293384739209547
-v0: 0.3137861013974662
+v0: -0.3137861013974662
 walls:
 - floor: 0.45
   pos: !!python/tuple

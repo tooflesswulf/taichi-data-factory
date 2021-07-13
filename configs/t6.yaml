@@ -18,7 +18,7 @@ name: t6
 pause_len: 0.08
 res: 150
 seg_len: 0.45964208537620804
-v0: 0.8997042020848863
+v0: -0.8997042020848863
 walls:
 - floor: 0.45
   pos: !!python/tuple
